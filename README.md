@@ -12,6 +12,16 @@
 
 ---
 
+## 安装方式
+
+首先确保已经安装了 [Node.js](https://nodejs.org/zh-cn/download)，随后终端运行以下命令：
+
+```shell
+npx skills add Alpha961/Vibecoding-helper-Skill
+```
+
+---
+
 ## 触发方式
 
 在对话中说以下任意一类话，即可触发：
